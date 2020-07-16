@@ -17,7 +17,7 @@ public class Cerifications {
 		{
 			acceptcookie.click();
 		}
-		Thread.sleep(5000);
+		Thread.sleep(3000);
 		driver.close();
 	}
 	
